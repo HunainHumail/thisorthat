@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThisOrThat</string>
+    <string name="facebook_app_id">255268235796198</string>
+    <string name="fb_login_protocol_scheme">fb255268235796198</string>
+</resources>

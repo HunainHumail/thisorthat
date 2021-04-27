@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "6615838368",
+    "firebase_url": "https://thisorthat-a207b.firebaseio.com",
+    "project_id": "thisorthat-a207b",
+    "storage_bucket": "thisorthat-a207b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6615838368:android:0cd89837e01fc4991723c5",
+        "android_client_info": {
+          "package_name": "com.thisorthat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6615838368-sk3j965mm7057jnbgcpsh14c4kvceufm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thisorthat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "6615838368-hasgmh2uu8mni6acu09mg34rt6pc7da4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWvi_kFuVr1br7ZHCDdWA-H1zNTBwYH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6615838368-6e2d9fmk3e30799mgiluniutf3khstc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6615838368-62dbcqo659ng8lmmf1q9blkr9e7b5a20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.thisorthatapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6615838368:android:ebfeaeecf3f4b5921723c5",
+        "android_client_info": {
+          "package_name": "com.thisorthatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6615838368-ribd9t05cht4b51momujojoa0atkp584.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thisorthatapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "6615838368-hasgmh2uu8mni6acu09mg34rt6pc7da4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWvi_kFuVr1br7ZHCDdWA-H1zNTBwYH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6615838368-6e2d9fmk3e30799mgiluniutf3khstc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6615838368-62dbcqo659ng8lmmf1q9blkr9e7b5a20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.thisorthatapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6615838368:android:cffb47f6364a43e41723c5",
+        "android_client_info": {
+          "package_name": "org.thisorthatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6615838368-6uifnqbuuusc7haqo8n2elovmc8nahue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.thisorthatapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "6615838368-hasgmh2uu8mni6acu09mg34rt6pc7da4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWvi_kFuVr1br7ZHCDdWA-H1zNTBwYH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6615838368-6e2d9fmk3e30799mgiluniutf3khstc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6615838368-62dbcqo659ng8lmmf1q9blkr9e7b5a20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.thisorthatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
